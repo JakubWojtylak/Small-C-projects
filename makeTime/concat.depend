@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553514201 source:d:\studia\ko³o\concat\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<stdlib.h>
+
